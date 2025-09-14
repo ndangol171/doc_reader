@@ -87,4 +87,5 @@
 - Collection `doc_chunks_mmpnet`: 768-dim vectors; payload: `doc_id`, `chunk_id`, `lang`, `campaign`
 
 ---
-
+### Demo Video Link
+https://drive.google.com/file/d/1YM8gyg1dbfDtyyP7wja0xJRboSLsUWq4/view?usp=sharing
