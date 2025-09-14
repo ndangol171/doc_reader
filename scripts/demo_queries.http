@@ -1,0 +1,12 @@
+
+### Semantic
+GET http://localhost:8000/search?q=What%20Russian%20disinformation%20campaigns%20target%20France%3F
+
+### Indicator Lookup
+GET http://localhost:8000/indicators/domain?campaign=Doppelgänger
+
+### Graph Traversal
+GET http://localhost:8000/relationships/example.com?hops=2
+
+### Pattern Detection (client-side after fetching /indicators/social)
+GET http://localhost:8000/indicators/social
